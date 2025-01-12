@@ -41,3 +41,5 @@ To run this dashboard locally, follow these steps:
 
 # License
 This project is licensed under the MIT License
+
+check out this amazing dashboard via `https://wastedash.streamlit.app/`
